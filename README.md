@@ -1,3 +1,6 @@
+# Google-Colab-Professional-Internship-Project-Machine-Learning
+Se modificaran los conjuntos de datos utilizados en la etapa de entrenamiento de algoritmos de aprendizaje automático en las métricas de desempeño.
+
 ### Facial Expression Recognition
 
 ---
